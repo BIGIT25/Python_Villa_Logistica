@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Env
+.env
+
+# Logs
+Log/
+
+# Outputs / generados
+Output_Data_csv/
+Adjuntos/
+
+# Cache tools
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Sistema
+.DS_Store
+Thumbs.db

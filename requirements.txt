@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+openpyxl
+requests
+pyodbc
+chardet
